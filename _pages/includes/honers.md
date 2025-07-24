@@ -9,6 +9,7 @@
 - *2019.11* [Top Ten Volunteers at Tsinghua University](https://www.tsinghua.edu.cn/info/1180/53981.htm) (Highest honor for Tsinghua volunteers, 10 volunteers in Tsinghua every two years)
 - *2024.12* [Feng Chongxi Research Excellence Scholarship, Department of Electronic Engineering, Tsinghua University](https://mp.weixin.qq.com/s/ODST2En_K0l7mmcMegeuUw) (Reward outstanding graduate students in project)
 - *2025.04* The project I completed as the first finisher won the first and third prizes of the 35th Student Laboratory Construction Contribution Award of Tsinghua University
+- *2020.09* As captain, led the Tsinghua University Science and Technology Service Team to win the [Tan Haoqiang Computer Education Fund Scholarship Outstanding Student Group Award](https://www.cs.tsinghua.edu.cn/info/1058/4869.htm)
 
 ## Others
 - *2022.12* Tsinghua University December Ninth Counselor Award
