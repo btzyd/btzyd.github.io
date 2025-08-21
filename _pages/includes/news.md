@@ -1,4 +1,5 @@
 # 🔥 News {#news}
+- *2025.08*: 🎉 One paper with me as the first author ([TCP](https://arxiv.org/abs/2506.00534)) are accepted by EMNLP 2025 Findings.
 - *2025.08*: 🎉 One paper with me as the first author ([F3](https://arxiv.org/abs/2506.01064)) are accepted by ACMMM 2025 as Oral.
 - *2025.07*: 🎉 One paper with me as the first author ([DHCP](https://arxiv.org/abs/2411.18659)) are accepted by ACMMM 2025.
 - *2025.05*: I was promoted by Tsinghua University on Twitter and Facebook, see details at [Twitter 1](https://x.com/Tsinghua_Uni/status/1925190201896210751), [Twitter 2](https://x.com/Tsinghua_Uni/status/1925662659786965125), [Twitter 3](https://x.com/Tsinghua_Uni/status/1926027983518609890), [Facebook](https://www.facebook.com/share/p/171JbK5ZXo/).
