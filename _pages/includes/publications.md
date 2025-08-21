@@ -9,11 +9,12 @@
 - `ACM-MM 2025` DHCP: Detecting Hallucinations by Cross-modal Attention Pattern in Large Vision-Language Models, **Yudong Zhang**, Ruobing Xie†, Xingwu Sun, Yiqing Huang, Jiansheng Chen†, Zhanhui Kang, Di Wang, Yu Wang† \| [**Paper**](https://arxiv.org/abs/2411.18659) \| [**Code**](https://github.com/btzyd/DHCP)
 - `ACM-MM 2025` <span style="color:red">(Oral)</span> Fighting Fire with Fire (F3): A Training-free and Efficient Visual Adversarial Example Purification Method in LVLMs, **Yudong Zhang**, Ruobing Xie†, Yiqing Huang, Jiansheng Chen†, Xingwu Sun, Zhanhui Kang, Di Wang, Yu Wang† \| [**Paper**](https://arxiv.org/abs/2506.01064) \| [**Code**](https://github.com/btzyd/F3)
 
+- `EMNLP 2025` (Findings) The Security Threat of Compressed Projectors in Large Vision-Language Models, **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Jiansheng Chen, Zhanhui Kang, Di Wang, Yu Wang \| [**Paper**](https://arxiv.org/abs/2506.00534)
+
 ## Efficiency of pre-training
 - `AAAI 2025` Enhancing Contrastive Learning Inspired by the Philosophy of "the Blind Men and the Elephant", **Yudong Zhang**, Ruobing Xie†, Jiansheng Chen†, Xingwu Sun, Zhanhui Kang, Yu Wang† \| [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/34425) \| [**Code**](https://github.com/btzyd/JointCrop) \| [**Video**](https://www.bilibili.com/video/BV1xD5hzSEin)
 
-## Preprint
-- `Arxiv` The Security Threat of Compressed Projectors in Large Vision-Language Models, **Yudong Zhang**, Ruobing Xie, Xingwu Sun, Jiansheng Chen, Zhanhui Kang, Di Wang, Yu Wang \| [**Paper**](https://arxiv.org/abs/2506.00534)
+<!-- ## Preprint -->
 
 ## Others (non-first author)
 - `ACM-MM 2022` 3D Human Mesh Reconstruction by Learning to Sample Joint Adaptive Tokens for Transformers, Youze Xue, Jiansheng Chen†, **Yudong Zhang**, Cheng Yu, Huimin Ma, Hongbing Ma \| [**Paper**](https://dl.acm.org/doi/10.1145/3503161.3548133)
