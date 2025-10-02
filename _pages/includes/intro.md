@@ -13,6 +13,6 @@ My research focuses on enhancing the safety and efficiency of vision-language mo
 
 Currently, I am an intern at Tencent's Hunyuan team, mentored by [Xingwu Sun (孙兴武)](https://scholar.google.com/citations?user=rjC51OsAAAAJ) and [Ruobing Xie (谢若冰)](https://ruobingxie.github.io/). I focus on pre-training of large language models.
 
-If you are interested in academic collaboration or would like to discuss potential research opportunities, please feel free to reach out via email [zhangyd16@mails.tsinghua.edu.cn](mailto:zhangyd16@mails.tsinghua.edu.cn).
+If you are interested in academic collaboration or would like to discuss potential research opportunities, please feel free to reach out via email [Email](mailto:zhangyd16@mails.tsinghua.edu.cn).
 
 I will be graduating in June 2026 and I am looking for job opportunities.
