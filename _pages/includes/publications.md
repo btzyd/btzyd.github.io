@@ -25,4 +25,4 @@
 
 - `Knowledge-Based Systems (KBS)` Image paragraph captioning with topic clustering and topic shift prediction, Ting Tang, Jiansheng Chen†, Yiqing Huang, Huimin Ma, **Yudong Zhang**, Hongwei Yu \| [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000364)
 
-- `ICCV 2025` DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection, Hongwei Yu, Xinlong Ding, Jiawei Li, Jinlong Wang, **Yudong Zhang**, Rongquan Wang, Huimin Ma, Jiansheng Chen
+- `ICCV 2025` DADet: Safeguarding Image Conditional Diffusion Models against Adversarial and Backdoor Attacks via Diffusion Anomaly Detection, Hongwei Yu, Xinlong Ding, Jiawei Li, Jinlong Wang, **Yudong Zhang**, Rongquan Wang, Huimin Ma, Jiansheng Chen \| [**Paper**](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_DADet_Safeguarding_Image_Conditional_Diffusion_Models_against_Adversarial_and_Backdoor_ICCV_2025_paper.html)

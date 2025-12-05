@@ -1,5 +1,6 @@
 # 🎖 Honors and Awards {#honors}
 ## Highlights Honors
+- *2025.10* [First Prize, Lu Dajin and Liu Runsheng Outstanding Teaching Assistant Award, Department of Electronic Engineering, Tsinghua University](https://www.ee.tsinghua.edu.cn/info/1076/4934.htm)
 - *2025.04* Tencent TEG Machine Learning Platform Department Outstanding Intern Award
 - *2024.12* [Tsinghua University 2024 Student of the Year](https://mp.weixin.qq.com/s/UxusF_TYsDh2ZioE6hVrEw) (10 students in Tsinghua each year)
 - *2023.12* [Tsinghua University Lin Feng Counselor Award](https://mp.weixin.qq.com/s/PMNvgvhhqytBldTRipZbqA) (The highest honor for Tsinghua University counselors)

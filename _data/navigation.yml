@@ -21,5 +21,8 @@ main:
   - title: "Patent"
     url: "/#patent"
 
+  - title: "Teaching"
+    url: "/#teaching"
+
   - title: "Academic Service"
     url: "/#service"
